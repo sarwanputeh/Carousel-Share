@@ -1,7 +1,6 @@
 {
   "name": "lazy-test",
   "version": "0.1.0",
-  "private": true,
   "main": "public/Slider.min.js",
   "files": [
   "public"
